@@ -1,0 +1,14 @@
+body {
+  height: 200px;
+  width: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #282a2d;
+}
+h1 {
+  color: #4cbb17;
+  background-color: #282a2d;
+  text-align: center;
+
+}
